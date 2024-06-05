@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "f1wsK7ujt79/y+5mlJTwXIti2tmxaAFkI3kfEVPhkC9e7qonZoxUtUpU90i6nGGYRzC1QzPZARvg6qu7MgRJng==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectCSharp\\MiSocial\\MessagingManagement.Api\\MessagingManagement.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Friday\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Friday\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Friday\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Friday\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Friday\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Friday\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
