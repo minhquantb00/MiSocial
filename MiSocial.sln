@@ -21,81 +21,105 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProfileManagement", "Profil
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{0D7348C2-9491-4B84-B619-A3D0DCC6C7A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{1F58EAA8-55B6-411A-8CFF-739A0FA4F0FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{1F58EAA8-55B6-411A-8CFF-739A0FA4F0FB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SettingManagement", "SettingManagement", "{48C44B40-6076-490C-8AD4-7318CD13C5DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthManagement.Api", "AuthManagement.Api\AuthManagement.Api.csproj", "{6DA79CC1-DAFA-46ED-B855-1F6FE5AFE688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthManagement.Api", "AuthManagement.Api\AuthManagement.Api.csproj", "{6DA79CC1-DAFA-46ED-B855-1F6FE5AFE688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthManagement.Application", "AuthManagement.Application\AuthManagement.Application.csproj", "{2CF91FF3-1E33-4297-9814-4DD53B437416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthManagement.Application", "AuthManagement.Application\AuthManagement.Application.csproj", "{2CF91FF3-1E33-4297-9814-4DD53B437416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthManagement.Domain", "AuthManagement.Domain\AuthManagement.Domain.csproj", "{DC70A524-D2BE-45A4-8148-FC452AE5F8C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthManagement.Domain", "AuthManagement.Domain\AuthManagement.Domain.csproj", "{DC70A524-D2BE-45A4-8148-FC452AE5F8C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthManagement.Infrastructure", "AuthManagement.Infrastructure\AuthManagement.Infrastructure.csproj", "{2D488BEE-9DED-4D3B-871E-BC972731D77F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthManagement.Infrastructure", "AuthManagement.Infrastructure\AuthManagement.Infrastructure.csproj", "{2D488BEE-9DED-4D3B-871E-BC972731D77F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupManagement.Api", "GroupManagement.Api\GroupManagement.Api.csproj", "{DE8AC213-7722-452D-987B-D6D0B6CFFE35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupManagement.Api", "GroupManagement.Api\GroupManagement.Api.csproj", "{DE8AC213-7722-452D-987B-D6D0B6CFFE35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupManagement.Application", "GroupManagement.Application\GroupManagement.Application.csproj", "{D500CAC9-5ABB-4322-8319-C976666B9756}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupManagement.Application", "GroupManagement.Application\GroupManagement.Application.csproj", "{D500CAC9-5ABB-4322-8319-C976666B9756}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupManagement.Domain", "GroupManagement.Domain\GroupManagement.Domain.csproj", "{C1C33F33-1FBF-445F-B11D-026460025AF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupManagement.Domain", "GroupManagement.Domain\GroupManagement.Domain.csproj", "{C1C33F33-1FBF-445F-B11D-026460025AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupManagement.Infrastructure", "GroupManagement.Infrastructure\GroupManagement.Infrastructure.csproj", "{A4232118-F061-4920-A7AE-ED23FCBF74C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupManagement.Infrastructure", "GroupManagement.Infrastructure\GroupManagement.Infrastructure.csproj", "{A4232118-F061-4920-A7AE-ED23FCBF74C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingManagement.Api", "MessagingManagement.Api\MessagingManagement.Api.csproj", "{393C69CF-C045-4624-ACE3-64EF10D83E2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingManagement.Api", "MessagingManagement.Api\MessagingManagement.Api.csproj", "{393C69CF-C045-4624-ACE3-64EF10D83E2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingManagement.Application", "MessagingManagement.Application\MessagingManagement.Application.csproj", "{C390074E-99CD-4578-A663-A6D55DD4A454}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingManagement.Application", "MessagingManagement.Application\MessagingManagement.Application.csproj", "{C390074E-99CD-4578-A663-A6D55DD4A454}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingManagement.Domain", "MessagingManagement.Domain\MessagingManagement.Domain.csproj", "{ADFC7B7B-FAF6-49B0-A5C8-34995E513B58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingManagement.Domain", "MessagingManagement.Domain\MessagingManagement.Domain.csproj", "{ADFC7B7B-FAF6-49B0-A5C8-34995E513B58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingManagement.Infrastructure", "MessagingManagement.Infrastructure\MessagingManagement.Infrastructure.csproj", "{31C6401B-7B90-47DC-8D36-F3EA391BD08B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingManagement.Infrastructure", "MessagingManagement.Infrastructure\MessagingManagement.Infrastructure.csproj", "{31C6401B-7B90-47DC-8D36-F3EA391BD08B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManagement.Api", "NotificationManagement.Api\NotificationManagement.Api.csproj", "{D6CE2066-4D42-48C3-AEF5-076ECF51B679}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Api", "NotificationManagement.Api\NotificationManagement.Api.csproj", "{D6CE2066-4D42-48C3-AEF5-076ECF51B679}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManagement.Application", "NotificationManagement.Application\NotificationManagement.Application.csproj", "{A097B023-D29A-41E7-A180-26BBA8C3C00C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Application", "NotificationManagement.Application\NotificationManagement.Application.csproj", "{A097B023-D29A-41E7-A180-26BBA8C3C00C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManagement.Domain", "NotificationManagement.Domain\NotificationManagement.Domain.csproj", "{9201A3DD-4891-4C1B-AD3D-AD7B8EDAE053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Domain", "NotificationManagement.Domain\NotificationManagement.Domain.csproj", "{9201A3DD-4891-4C1B-AD3D-AD7B8EDAE053}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationManagement.Infrastructure", "NotificationManagement.Infrastructure\NotificationManagement.Infrastructure.csproj", "{5A42481A-ED0C-4245-B649-34BF304F05E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationManagement.Infrastructure", "NotificationManagement.Infrastructure\NotificationManagement.Infrastructure.csproj", "{5A42481A-ED0C-4245-B649-34BF304F05E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageManagement.Api", "PageManagement.Api\PageManagement.Api.csproj", "{4065B528-5C63-491C-BA8A-82B0C3B19F06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PageManagement.Api", "PageManagement.Api\PageManagement.Api.csproj", "{4065B528-5C63-491C-BA8A-82B0C3B19F06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageManagement.Application", "PageManagement.Application\PageManagement.Application.csproj", "{09D7E43C-6889-425E-9613-513571634045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PageManagement.Application", "PageManagement.Application\PageManagement.Application.csproj", "{09D7E43C-6889-425E-9613-513571634045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageManagement.Domain", "PageManagement.Domain\PageManagement.Domain.csproj", "{4A07C4CC-5A16-46E0-8542-0ECF2B91076C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PageManagement.Domain", "PageManagement.Domain\PageManagement.Domain.csproj", "{4A07C4CC-5A16-46E0-8542-0ECF2B91076C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageManagement.Infrastructure", "PageManagement.Infrastructure\PageManagement.Infrastructure.csproj", "{DE78ADA4-D5C6-422A-97B0-EBED02D9943B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PageManagement.Infrastructure", "PageManagement.Infrastructure\PageManagement.Infrastructure.csproj", "{DE78ADA4-D5C6-422A-97B0-EBED02D9943B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostManagement.Api", "PostManagement.Api\PostManagement.Api.csproj", "{56F46CA2-4B4E-4004-8B43-67F290A52B8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostManagement.Api", "PostManagement.Api\PostManagement.Api.csproj", "{56F46CA2-4B4E-4004-8B43-67F290A52B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostManagement.Application", "PostManagement.Application\PostManagement.Application.csproj", "{7A613CF8-9DE9-4630-85CC-E04257B53171}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostManagement.Application", "PostManagement.Application\PostManagement.Application.csproj", "{7A613CF8-9DE9-4630-85CC-E04257B53171}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostManagement.Domain", "PostManagement.Domain\PostManagement.Domain.csproj", "{CD83EAE5-8E2E-493D-8B9B-F8CA4D3A839C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostManagement.Domain", "PostManagement.Domain\PostManagement.Domain.csproj", "{CD83EAE5-8E2E-493D-8B9B-F8CA4D3A839C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostManagement.Infrastructure", "PostManagement.Infrastructure\PostManagement.Infrastructure.csproj", "{FF046705-C5FC-4897-B621-C230CA9F8C42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostManagement.Infrastructure", "PostManagement.Infrastructure\PostManagement.Infrastructure.csproj", "{FF046705-C5FC-4897-B621-C230CA9F8C42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfileManagement.Api", "ProfileManagement.Api\ProfileManagement.Api.csproj", "{3F32890F-ADCE-4B10-9C6A-48F27586ECCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfileManagement.Api", "ProfileManagement.Api\ProfileManagement.Api.csproj", "{3F32890F-ADCE-4B10-9C6A-48F27586ECCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfileManagement.Application", "ProfileManagement.Application\ProfileManagement.Application.csproj", "{81DEA9E0-FE5D-4BBE-879A-2DE8039A9AAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfileManagement.Application", "ProfileManagement.Application\ProfileManagement.Application.csproj", "{81DEA9E0-FE5D-4BBE-879A-2DE8039A9AAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfileManagement.Domain", "ProfileManagement.Domain\ProfileManagement.Domain.csproj", "{18366F99-0AE8-414D-8BFA-005CA8C17388}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfileManagement.Domain", "ProfileManagement.Domain\ProfileManagement.Domain.csproj", "{18366F99-0AE8-414D-8BFA-005CA8C17388}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfileManagement.Infrastructure", "ProfileManagement.Infrastructure\ProfileManagement.Infrastructure.csproj", "{7FAFEF82-A759-45F3-8737-F0A0F19BC657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfileManagement.Infrastructure", "ProfileManagement.Infrastructure\ProfileManagement.Infrastructure.csproj", "{7FAFEF82-A759-45F3-8737-F0A0F19BC657}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingManagement.Api", "SettingManagement.Api\SettingManagement.Api.csproj", "{F16AA73C-6C54-4026-91CA-3299D57CDEA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SettingManagement.Api", "SettingManagement.Api\SettingManagement.Api.csproj", "{F16AA73C-6C54-4026-91CA-3299D57CDEA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingManagement.Application", "SettingManagement.Application\SettingManagement.Application.csproj", "{349124CC-A856-4996-8938-99E4C9247B02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SettingManagement.Application", "SettingManagement.Application\SettingManagement.Application.csproj", "{349124CC-A856-4996-8938-99E4C9247B02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingManagement.Domain", "SettingManagement.Domain\SettingManagement.Domain.csproj", "{F2858712-B5E7-495A-B3FE-3D0760B66656}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SettingManagement.Domain", "SettingManagement.Domain\SettingManagement.Domain.csproj", "{F2858712-B5E7-495A-B3FE-3D0760B66656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingManagement.Infrastructure", "SettingManagement.Infrastructure\SettingManagement.Infrastructure.csproj", "{FF359B36-3FEC-40D3-B5DA-4FEB165F927C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SettingManagement.Infrastructure", "SettingManagement.Infrastructure\SettingManagement.Infrastructure.csproj", "{FF359B36-3FEC-40D3-B5DA-4FEB165F927C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchManagement.Api", "WatchManagement.Api\WatchManagement.Api.csproj", "{42E4D2B5-ED3E-421E-A669-7C4BE0165516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WatchManagement.Api", "WatchManagement.Api\WatchManagement.Api.csproj", "{42E4D2B5-ED3E-421E-A669-7C4BE0165516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchManagement.Application", "WatchManagement.Application\WatchManagement.Application.csproj", "{C1777640-16CA-47DB-AFBF-956EF6B07F37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WatchManagement.Application", "WatchManagement.Application\WatchManagement.Application.csproj", "{C1777640-16CA-47DB-AFBF-956EF6B07F37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchManagement.Domain", "WatchManagement.Domain\WatchManagement.Domain.csproj", "{B8445EAC-1532-400A-A54B-EB6FE70A4F4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WatchManagement.Domain", "WatchManagement.Domain\WatchManagement.Domain.csproj", "{B8445EAC-1532-400A-A54B-EB6FE70A4F4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchManagement.Infrastructure", "WatchManagement.Infrastructure\WatchManagement.Infrastructure.csproj", "{D6FCECC9-D779-462F-A674-D6854259EBAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WatchManagement.Infrastructure", "WatchManagement.Infrastructure\WatchManagement.Infrastructure.csproj", "{D6FCECC9-D779-462F-A674-D6854259EBAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Commons", "Commons", "{683F59FE-ACAE-449E-A3E0-E18D1ED6F18C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.Base", "Application.Base\Application.Base.csproj", "{0CE2CC6A-588E-4F03-88DC-D8472A9B221E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Base", "Domain.Base\Domain.Base.csproj", "{56100F80-0BD5-403B-ACDB-B3FE2B6593D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Base", "Infrastructure.Base\Infrastructure.Base.csproj", "{6ABEBD46-9808-426B-A109-923BF429F9FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientService.Base", "ClientService.Base\ClientService.Base.csproj", "{8A6B87D0-7DCE-481E-8136-8682811FCFE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackgroundJobs", "BackgroundJobs", "{45D51D7B-F62C-4626-8FD8-A31AE4263B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgrounJobs.Proccess", "BackgrounJobs.Proccess\BackgrounJobs.Proccess.csproj", "{21701347-5A75-484E-B5D8-EF0D97FF7C19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AuditLogs", "AuditLogs", "{67629E38-1F91-415E-B021-A48888602A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditLogs.Application", "AuditLogs.Application\AuditLogs.Application.csproj", "{406E6AA9-17B3-48A7-BD3D-D5D098C11C35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditLogs.Module", "AuditLogs.ClientService\AuditLogs.Module.csproj", "{1C8F0BBA-1C63-415A-AEC5-C3FB5ACBDFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditLogs.Domain", "AuditLogs.Domain\AuditLogs.Domain.csproj", "{A28CC0B6-1EA8-4222-B7E9-F93C5E674CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditLogs.Infrastructure", "AuditLogs.Infrastructure\AuditLogs.Infrastructure.csproj", "{14A2D990-1226-44E1-9659-C1F1A82233ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -251,6 +275,42 @@ Global
 		{D6FCECC9-D779-462F-A674-D6854259EBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6FCECC9-D779-462F-A674-D6854259EBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6FCECC9-D779-462F-A674-D6854259EBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE2CC6A-588E-4F03-88DC-D8472A9B221E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE2CC6A-588E-4F03-88DC-D8472A9B221E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE2CC6A-588E-4F03-88DC-D8472A9B221E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE2CC6A-588E-4F03-88DC-D8472A9B221E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56100F80-0BD5-403B-ACDB-B3FE2B6593D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56100F80-0BD5-403B-ACDB-B3FE2B6593D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56100F80-0BD5-403B-ACDB-B3FE2B6593D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56100F80-0BD5-403B-ACDB-B3FE2B6593D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABEBD46-9808-426B-A109-923BF429F9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABEBD46-9808-426B-A109-923BF429F9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABEBD46-9808-426B-A109-923BF429F9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABEBD46-9808-426B-A109-923BF429F9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6B87D0-7DCE-481E-8136-8682811FCFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6B87D0-7DCE-481E-8136-8682811FCFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6B87D0-7DCE-481E-8136-8682811FCFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6B87D0-7DCE-481E-8136-8682811FCFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21701347-5A75-484E-B5D8-EF0D97FF7C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21701347-5A75-484E-B5D8-EF0D97FF7C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21701347-5A75-484E-B5D8-EF0D97FF7C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21701347-5A75-484E-B5D8-EF0D97FF7C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406E6AA9-17B3-48A7-BD3D-D5D098C11C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406E6AA9-17B3-48A7-BD3D-D5D098C11C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406E6AA9-17B3-48A7-BD3D-D5D098C11C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406E6AA9-17B3-48A7-BD3D-D5D098C11C35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8F0BBA-1C63-415A-AEC5-C3FB5ACBDFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8F0BBA-1C63-415A-AEC5-C3FB5ACBDFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8F0BBA-1C63-415A-AEC5-C3FB5ACBDFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8F0BBA-1C63-415A-AEC5-C3FB5ACBDFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28CC0B6-1EA8-4222-B7E9-F93C5E674CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28CC0B6-1EA8-4222-B7E9-F93C5E674CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28CC0B6-1EA8-4222-B7E9-F93C5E674CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28CC0B6-1EA8-4222-B7E9-F93C5E674CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A2D990-1226-44E1-9659-C1F1A82233ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A2D990-1226-44E1-9659-C1F1A82233ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A2D990-1226-44E1-9659-C1F1A82233ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A2D990-1226-44E1-9659-C1F1A82233ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -293,6 +353,15 @@ Global
 		{C1777640-16CA-47DB-AFBF-956EF6B07F37} = {8E0840E4-AE24-4985-8A80-B6218A10442F}
 		{B8445EAC-1532-400A-A54B-EB6FE70A4F4F} = {8E0840E4-AE24-4985-8A80-B6218A10442F}
 		{D6FCECC9-D779-462F-A674-D6854259EBAC} = {8E0840E4-AE24-4985-8A80-B6218A10442F}
+		{0CE2CC6A-588E-4F03-88DC-D8472A9B221E} = {683F59FE-ACAE-449E-A3E0-E18D1ED6F18C}
+		{56100F80-0BD5-403B-ACDB-B3FE2B6593D2} = {683F59FE-ACAE-449E-A3E0-E18D1ED6F18C}
+		{6ABEBD46-9808-426B-A109-923BF429F9FF} = {683F59FE-ACAE-449E-A3E0-E18D1ED6F18C}
+		{8A6B87D0-7DCE-481E-8136-8682811FCFE1} = {683F59FE-ACAE-449E-A3E0-E18D1ED6F18C}
+		{21701347-5A75-484E-B5D8-EF0D97FF7C19} = {45D51D7B-F62C-4626-8FD8-A31AE4263B7B}
+		{406E6AA9-17B3-48A7-BD3D-D5D098C11C35} = {67629E38-1F91-415E-B021-A48888602A78}
+		{1C8F0BBA-1C63-415A-AEC5-C3FB5ACBDFAE} = {67629E38-1F91-415E-B021-A48888602A78}
+		{A28CC0B6-1EA8-4222-B7E9-F93C5E674CF1} = {67629E38-1F91-415E-B021-A48888602A78}
+		{14A2D990-1226-44E1-9659-C1F1A82233ED} = {67629E38-1F91-415E-B021-A48888602A78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {70E589F1-5C4D-4D94-8D2D-B3A3EBB33D26}

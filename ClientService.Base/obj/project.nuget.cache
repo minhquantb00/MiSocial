@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8PThwKy4VBH944lhJzcVDJndpVfDonQZersPVSqs47vVjjdI7bw5nE7kejR+hQLsaM+x/4TwSaBBnjOMTT1z2w==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectCSharp\\MiSocial\\ClientService.Base\\ClientService.Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Friday\\.nuget\\packages\\identitymodel\\7.0.0\\identitymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\Friday\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Friday\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
